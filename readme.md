@@ -1,4 +1,7 @@
 # Website Load Tester 
+![Python Version](https://img.shields.io/badge/python-3.11%2B-blue)
+![License](https://img.shields.io/badge/license-MIT-green)
+![Status](https://img.shields.io/badge/status-active-success)
 
 A high-performance **website load and stress testing tool** designed to evaluate how a web application behaves under heavy traffic.
 
@@ -41,4 +44,5 @@ This helps identify:
 - Server limits
 - Response degradation
 - Failure thresholds
+
 
